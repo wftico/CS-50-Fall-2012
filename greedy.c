@@ -2,8 +2,7 @@
 *
 *
 *  Greedy - Problem Set 1
-*  enhanced editon 1.0
-*  Martin Nowatschek
+* 
 *  CS 50
 *
 *  Final solution - using arrays - transfering float to int
