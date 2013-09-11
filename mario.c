@@ -1,3 +1,7 @@
+/*
+Problemset 1 - Mario.c
+*/
+
 #include <stdio.h>
 #include <cs50.h>
  
